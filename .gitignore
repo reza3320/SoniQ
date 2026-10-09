@@ -1,0 +1,14 @@
+# SoniQ project
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+.soniq/
+logs/
+*.mp3
+*.flac
+*.m4a
+*.opus
+.DS_Store
