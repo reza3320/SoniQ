@@ -1,0 +1,11 @@
+# SoniQ — Core Dependencies
+#
+# Install with: pip install -r requirements.txt
+#
+# mutagen:     Read and write audio metadata (ID3 tags, etc.)
+# yt-dlp:      Download audio from the secondary source
+# musicbrainzngs: Optional — metadata enrichment
+
+mutagen>=1.47
+yt-dlp>=2024.0
+musicbrainzngs>=0.7
